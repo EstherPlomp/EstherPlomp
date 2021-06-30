@@ -1,6 +1,6 @@
 ## Esther Plomp
 
-Hi! I'm Esther. I work as a [Data Steward](https://www.tudelft.nl/en/library/current-topics/research-data-management/r/support/data-stewardship/contact/esther-plomp/) at Delft University of Technology in the Netherlands. Before that I did a [PhD in bioanthropology](https://doi.org/10.5281/zenodo.3929551), studying the isotopic composition of human teeth. 
+Hi! I'm Esther. I work as a [Data Steward](https://www.tudelft.nl/en/library/current-topics/research-data-management/r/support/data-stewardship/contact/esther-plomp/) at Delft University of Technology in the Netherlands. Before that I did a [PhD in bioarchaeology](https://doi.org/10.5281/zenodo.3929551), studying the isotopic composition of human teeth. 
 
 
 ### 🔭 I’m currently working on:

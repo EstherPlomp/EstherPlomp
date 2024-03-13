@@ -4,14 +4,13 @@ Hi! I'm Esther. I work as a [Data Steward](https://www.tudelft.nl/en/library/cur
 
 
 ### 🔭 I’m currently working on:
-- Analysing and displaying some survey data in R. 
+- Trying to get some data on what data/code is shared at my institute (Faculty of Applied Sciences, TU Delft).
 
 ### 🌱 I’m currently learning:
-- How to set up reports in R markdown
+- How to get that data (on data/code availability) in an automated way :)
 
 ### 📫 How to reach/follow me:
-- Twitter: [@PhDtoothFAIRy](https://twitter.com/PhDToothFAIRy)
-- ORCID: [0000-0003-3625-1357](https://orcid.org/0000-0003-3625-1357)
+- Mastodon: [@PhDtoothFAIRy](https://scholar.social/@toothFAIRy)
 - Linkedin: [Esther Plomp](https://www.linkedin.com/in/estherplomp/)
 
 ![](https://i1.wp.com/sfdora.org/wp-content/uploads/2018/06/Dorabadge2.png) 
